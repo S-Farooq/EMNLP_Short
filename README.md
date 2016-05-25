@@ -1,4 +1,4 @@
 # EMNLP_Short
-Thesis submission of EMNLP
+Thesis write-up for EMNLP
 
-
+(Pending...)
